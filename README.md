@@ -1,6 +1,6 @@
 # oa-wcag
 
-De toegankelijkheidscontrole (WCAG 2.1 AA) van Office-bestanden voor de [Office Assistent](https://github.com/digitaalgemeengoed): 34 controles voor `.docx`, `.xlsx` en `.pptx`, als kleine dienst op de server met de assistent-diensten.
+De toegankelijkheidscontrole (WCAG 2.1 AA) van Office-bestanden voor de [Office Assistent](https://github.com/Digitaal-Gemeengoed): 34 controles voor `.docx`, `.xlsx` en `.pptx`, als kleine dienst op de server met de assistent-diensten.
 
 Gebaseerd op [EHa-1999/wcag-checker](https://github.com/EHa-1999/wcag-checker) (EUPL 1.2). De controles zelf staan nog onder `nl.overheid.wcag`, zodat verbeteringen in beide richtingen over te nemen zijn; wat voor de assistent nieuw is, staat onder `nl.digitaalgemeengoed.wcag`. Zie [CHANGELOG.md](CHANGELOG.md) voor wat ten opzichte van het origineel is hersteld.
 
