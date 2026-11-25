@@ -6,7 +6,7 @@
 
     <groupId>nl.digitaalgemeengoed</groupId>
     <artifactId>oa-wcag</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
     <name>oa-wcag</name>
     <description>Toegankelijkheidscontrole (WCAG 2.1 AA) van Office-bestanden voor de Office Assistent. Gebaseerd op EHa-1999/wcag-checker.</description>
 

@@ -1,5 +1,10 @@
 # Wijzigingen
 
+## 0.1.1 — 2026-11-25
+
+- Gebruik van kleur (WCAG 1.4.1): de plaatshouders van de anonimisering (`[PERSOON 11]`, `[E-MAIL 1]`) worden niet meer gemeld. De tekst tussen haken zegt zelf wat er staat; de kleur geeft alleen het PPL-niveau aan. In een .docx bewaart LibreOffice van de markering alleen kleur en arcering, zodat elk geanonimiseerd document een melding gaf die niet te herstellen was.
+- Als extra kenmerk naast kleur telt nu ook elke onderstreping (niet alleen enkel), doorhaling en een kader om de tekst. Per alinea wordt verder gezocht na een gekleurd stuk dat wel zo'n kenmerk heeft.
+
 ## 0.1.0 — 2026-11-09
 
 Eerste versie: de controles van [EHa-1999/wcag-checker](https://github.com/EHa-1999/wcag-checker) (commit `65fb0f7`) als kleine dienst voor de Office Assistent.
